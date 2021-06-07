@@ -129,6 +129,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111165  - Natsuno Tsukuda<br/>
 2111316 - Phan Thuy Phuong <br/>
 2111259   - Murakami Kyoya<br/>
+2111276 - Yusuke Yamato<br/>
 2111291 - Masashi Yoshimura<br/>
 2111027 - Shota Inoue <br/>
 2111030   - Akihito Ihara <br/>
